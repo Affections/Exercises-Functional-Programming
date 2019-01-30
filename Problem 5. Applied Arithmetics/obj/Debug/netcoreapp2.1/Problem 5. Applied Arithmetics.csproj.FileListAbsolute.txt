@@ -1,0 +1,11 @@
+C:\Users\--------------------\source\repos\ConsoleApp7\Problem 5. Applied Arithmetics\bin\Debug\netcoreapp2.1\Problem 5. Applied Arithmetics.deps.json
+C:\Users\--------------------\source\repos\ConsoleApp7\Problem 5. Applied Arithmetics\bin\Debug\netcoreapp2.1\Problem 5. Applied Arithmetics.runtimeconfig.json
+C:\Users\--------------------\source\repos\ConsoleApp7\Problem 5. Applied Arithmetics\bin\Debug\netcoreapp2.1\Problem 5. Applied Arithmetics.runtimeconfig.dev.json
+C:\Users\--------------------\source\repos\ConsoleApp7\Problem 5. Applied Arithmetics\bin\Debug\netcoreapp2.1\Problem 5. Applied Arithmetics.dll
+C:\Users\--------------------\source\repos\ConsoleApp7\Problem 5. Applied Arithmetics\bin\Debug\netcoreapp2.1\Problem 5. Applied Arithmetics.pdb
+C:\Users\--------------------\source\repos\ConsoleApp7\Problem 5. Applied Arithmetics\obj\Debug\netcoreapp2.1\Problem 5. Applied Arithmetics.csprojAssemblyReference.cache
+C:\Users\--------------------\source\repos\ConsoleApp7\Problem 5. Applied Arithmetics\obj\Debug\netcoreapp2.1\Problem 5. Applied Arithmetics.csproj.CoreCompileInputs.cache
+C:\Users\--------------------\source\repos\ConsoleApp7\Problem 5. Applied Arithmetics\obj\Debug\netcoreapp2.1\Problem 5. Applied Arithmetics.AssemblyInfoInputs.cache
+C:\Users\--------------------\source\repos\ConsoleApp7\Problem 5. Applied Arithmetics\obj\Debug\netcoreapp2.1\Problem 5. Applied Arithmetics.AssemblyInfo.cs
+C:\Users\--------------------\source\repos\ConsoleApp7\Problem 5. Applied Arithmetics\obj\Debug\netcoreapp2.1\Problem 5. Applied Arithmetics.dll
+C:\Users\--------------------\source\repos\ConsoleApp7\Problem 5. Applied Arithmetics\obj\Debug\netcoreapp2.1\Problem 5. Applied Arithmetics.pdb
